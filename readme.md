@@ -1,8 +1,8 @@
 # TUGAS 5 ASISTENSI PBO - Jumat, 1 November 2019
 
-NAMA: `isi nama disini`
+NAMA: wicaksono leksono muhamad
 
-NRP: `isi nrp disini`
+NRP: 06111840000088
 
 ## Deskripsi Tugas
 Buatlah UML diagram sesuai dengan class, object, method dan property yang kamu buat, sebagai referensi untuk memulai:
@@ -133,8 +133,12 @@ hanya sebagai hiasan saja, jika bisa print-nya, ya bagus, jika tidak bisa digant
 
 
 ## Hasil
-buatlah sebuah demo video yang merekam semua case (menambah, mengedit, menghapus buku, serta seluruh error handlingnya (jika ada)), upload ke youtube dan sertakan linknya [disini](INSERT_YOUTUBE_URL_HERE)
-![](SERTAKAN_GAMBARNYA_DISINI)
+buatlah sebuah demo video yang merekam semua case (menambah, mengedit, menghapus buku, serta seluruh error handlingnya (jika ada)), upload ke youtube dan sertakan linknya [disini](https://www.youtube.com/watch?v=AjnYUZwHuuM&t=2s)
+![](![image](https://user-images.githubusercontent.com/56147147/68547690-11f13200-0417-11ea-8870-40f5194cebfd.png)
+![image](https://user-images.githubusercontent.com/56147147/68547697-21707b00-0417-11ea-9c1c-3efb08ae9f55.png)
+![image](https://user-images.githubusercontent.com/56147147/68547704-364d0e80-0417-11ea-88b0-e013a23dffd0.png)
+![image](https://user-images.githubusercontent.com/56147147/68547708-406f0d00-0417-11ea-89ac-a29048116c47.png)
+)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
